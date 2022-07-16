@@ -1,0 +1,25 @@
+https://www.youtube.com/watch?v=kGEqaX4Y4bQ
+
+Source code: 
+https://github.com/gasgiant/FFT-Ocean
+
+Catlike Coding on Gerstner waves:
+https://catlikecoding.com/unity/tutorials/flow/waves/
+3Blue1Brown on Euler's formula:
+https://www.youtube.com/watch?v=v0YEaeIClKY
+3Blue1Brown on Fourier transform:
+https://www.youtube.com/watch?v=spUNpyF58BY
+
+References:
+https://github.com/gasgiant/FFT-Ocean/blob/main/references.md
+
+-----
+
+Unity water game
+https://www.youtube.com/watch?v=gRq-IdShxpU
+source code:
+https://github.com/Unity-Technologies/BoatAttack
+
+-----
+water example
+https://www.youtube.com/watch?v=EMb_FUmr0Ts
